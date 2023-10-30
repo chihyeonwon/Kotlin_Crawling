@@ -28,3 +28,8 @@ implementation ("org.jsoup:jsoup:1.13.1")
 https://coop.gwnu.ac.kr/contents.asp?page=848 사이트의 어느 부분을 가져오기는 하는 데
 조식, 중식, 석식의 태그를 잘못 찾는 것 같다
 ```
+#### 크롤링해 올 태그 분석
+![image](https://github.com/chihyunwon/Kotlin_Crawling/assets/58906858/908a2768-5e09-45a7-8421-f5dea28fd59e)
+```
+table dashboardz 쪽의 tbody 밑의 td_left의 1번이 조식 2번이 중식 3번이 석식 메뉴를 나타낸다. 
+```
