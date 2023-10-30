@@ -43,3 +43,8 @@ table dashboardz 쪽의 tbody 밑의 td class=left의 1번이 조식 2번이 중
 ```
 크롤링 텍스트 공간을 스크롤 뷰로 수정하고 버튼의 크기와 텍스트 크기를 수정했다.
 ```
+#### 로직 수정
+![image](https://github.com/chihyunwon/Kotlin_Crawling/assets/58906858/b4eaeb07-0166-4765-9d37-ffb82a168f0b)
+```
+th.bln 이 오늘 날짜와 같을 때만 조식 중식 석식을 출력하도록 하면 오늘 날짜의 조식 중식 석식만 뽑아올 수 있을 것 같다.
+```
