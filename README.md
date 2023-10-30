@@ -31,5 +31,5 @@ https://coop.gwnu.ac.kr/contents.asp?page=848 사이트의 어느 부분을 가�
 #### 크롤링해 올 태그 분석
 ![image](https://github.com/chihyunwon/Kotlin_Crawling/assets/58906858/908a2768-5e09-45a7-8421-f5dea28fd59e)
 ```
-table dashboardz 쪽의 tbody 밑의 td_left의 1번이 조식 2번이 중식 3번이 석식 메뉴를 나타낸다. 
+table dashboardz 쪽의 tbody 밑의 td class=left의 1번이 조식 2번이 중식 3번이 석식 메뉴를 나타낸다. 
 ```
