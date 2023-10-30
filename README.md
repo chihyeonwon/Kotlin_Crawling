@@ -22,3 +22,9 @@ implementation ("org.jsoup:jsoup:1.13.1")
 <uses-permission android:name="android.permission.INTERNET" />
 <application> android:usesCleartextTraffic="true" 
 ```
+#### 23.10.30 작업
+![image](https://github.com/chihyunwon/Kotlin_Crawling/assets/58906858/9c3cb038-a9da-47bf-a4ea-d28a87f05620)
+```
+https://coop.gwnu.ac.kr/contents.asp?page=848 사이트의 어느 부분을 가져오기는 하는 데
+조식, 중식, 석식의 태그를 잘못 찾는 것 같다
+```
