@@ -48,3 +48,9 @@ table dashboardz 쪽의 tbody 밑의 td class=left의 1번이 조식 2번이 중
 ```
 th.bln 이 오늘 날짜와 같을 때만 조식 중식 석식을 출력하도록 하면 오늘 날짜의 조식 중식 석식만 뽑아올 수 있을 것 같다.
 ```
+#### 오늘 날짜를 뽑아내기
+![image](https://github.com/chihyunwon/Kotlin_Crawling/assets/58906858/436f433b-9897-42f3-aa0f-97a2033c7d09)    
+![image](https://github.com/chihyunwon/Kotlin_Crawling/assets/58906858/f63b8434-50e4-46dd-ad90-a565e752e244)
+```
+localdate와 formatter를 사용해서 10.30의 형태로 formattedDate 날짜를 저장한 후 Log를 찍어서 10.30의 형태로 출력되는 것을
+확인했다.
