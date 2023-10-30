@@ -17,3 +17,8 @@ implementation ("io.reactivex.rxjava2:rxandroid:2.1.1")
 implementation ("io.reactivex.rxjava2:rxkotlin:2.4.0")
 implementation ("org.jsoup:jsoup:1.13.1")
 ```
+#### AndroidManifest 설정 추가
+```
+<uses-permission android:name="android.permission.INTERNET" />
+<application> android:usesCleartextTraffic="true" 
+```
