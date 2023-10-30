@@ -38,3 +38,8 @@ table dashboardz 쪽의 tbody 밑의 td class=left의 1번이 조식 2번이 중
 ```
 메뉴가 나오기는 하는데 뭔지 모르겠다
 ```
+#### UI 수정
+![image](https://github.com/chihyunwon/Kotlin_Crawling/assets/58906858/c6490779-849d-49db-843c-c6ecfed7ee83)
+```
+크롤링 텍스트 공간을 스크롤 뷰로 수정하고 버튼의 크기와 텍스트 크기를 수정했다.
+```
